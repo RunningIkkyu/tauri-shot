@@ -1,5 +1,8 @@
 # tauri-shot
 
+<img width="931" height="728" alt="tauri-shot" src="https://github.com/user-attachments/assets/589450d2-f668-4be7-8639-5c54656f49ae" />
+
+
 A lightweight screenshot app built with Tauri + SvelteKit. Global shortcuts, regional capture, clipboard copy, and export to PNG, JPEG, or WebP.
 
 ## Installation
