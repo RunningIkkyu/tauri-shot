@@ -49,9 +49,6 @@ Bundles are emitted under `src-tauri/target/release/bundle/`.
 - [SvelteKit 5](https://svelte.dev/) + TypeScript + Vite
 - [`xcap`](https://crates.io/crates/xcap) capture, [`arboard`](https://crates.io/crates/arboard) clipboard, [`image`](https://crates.io/crates/image) encoding
 
-## License
-
-[MIT](LICENSE)
 
 ## Why this project?
 
