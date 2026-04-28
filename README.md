@@ -52,3 +52,11 @@ Bundles are emitted under `src-tauri/target/release/bundle/`.
 ## License
 
 [MIT](LICENSE)
+
+## Why this project?
+
+For some reason I need to take screenshot and copy the screenshot as WebP images, then paste them into my docs. I didn’t find suitable free software to do this on my Mac, so I wrote this. I also need to draw arrows on my screenshots—that’s all I need.
+
+It took hours to build this app; it’s ugly, but it works.
+
+Feel free to use or modify.
